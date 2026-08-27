@@ -4,7 +4,7 @@ This project demonstrates how to leverage the Model Context Protocol (MCP) to co
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_hu3e9phu3e9phu3e.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_hu3e9phu3e9phu3e.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ This project demonstrates how to leverage the Model Context Protocol (MCP) to co
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_11.02.36PM.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_11.02.36PM.png"
        alt="System Architecture"
        width="600" />
 </p>
